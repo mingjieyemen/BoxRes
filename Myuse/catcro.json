@@ -16,7 +16,7 @@
     {
       "name": "LIVE",
       "type": 0,
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/wwb521/live/refs/heads/main/tv.m3u",
+      "url": "https://live.fanmingming.cn/tv/m3u/ipv6.m3u ",
       "playerType": 1,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
@@ -24,7 +24,7 @@
     {
       "name": "LIVE_fan",
       "type": 0,
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u",
+      "url": "https://git.acwing.com/Mix2025/0/-/raw/0/Mix1.txt",
       "playerType": 1,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
@@ -32,7 +32,7 @@
     {
       "name": "LIVE_home",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/joevess/IPTV/refs/heads/main/home.m3u8",
+      "url": "http://ysc.nddzy.com/qishu/zr.txt",
       "playerType": 1,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
@@ -40,7 +40,7 @@
     {
       "name": "LIVE_Gather",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Gather.m3u",
+      "url": "https://github.ednovas.xyz/https://raw.githubusercontent.com/357546/tv/refs/heads/main/yylive4545.txt",
       "playerType": 1,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
@@ -48,7 +48,7 @@
     {
       "name": "LIVEfl",
       "type": 0,
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/zeee-u/lzh06/main/fl.m3u",
+      "url": "http://xmbjm.fh4u.org/ss.txt",
       "playerType": 1,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
@@ -57,7 +57,7 @@
   "sites": [
     {
       "key": "csp_douban",
-      "name": "🌕┃豆瓣┃推荐",
+      "name": "🌕┃大爷┃自用",
       "type": 3,
       "api": "csp_DouDou",
       "jar": "./lib/fty.jar",
@@ -357,10 +357,10 @@
       "quickSearch": 0
     },
     {
-      "key": "葡萄采集",
-      "name": "葡萄采集",
+      "key": "鸡坤资源",
+      "name": "鸡坤资源",
       "type": 0,
-      "api": "https://caiji.putaozyw.net/inc/apijson_vod.php",
+      "api": "https://jkunzyapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -402,10 +402,10 @@
       "filterable": 1
     },
     {
-      "key": "zp066",
-      "name": "🔞花椒资源",
+      "key": "妖舞资源",
+      "name": "🔞妖舞资源",
       "type": 0,
-      "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml/",
+      "api": "https://155api.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -429,10 +429,10 @@
       "filterable": 0
     },
     {
-      "key": "💞探探资源💞",
-      "name": "💞探探资源💞",
+      "key": "💞猫咪资源💞",
+      "name": "💞猫咪资源💞",
       "type": 1,
-      "api": "https://apittzy.com/api.php/provide/vod/",
+      "api": "https://api.maozyapi.com/inc/apijson_vod.php",
       "searchable": 0,
       "quickSearch": 0
     },
@@ -450,25 +450,7 @@
       "quickSearch": 1,
       "searchable": 1,
       "filterable": 1
-    },
-    {
-      "key": "老鸭资源",
-      "name": "老鸭资源",
-      "type": 0,
-      "api": "https://api.apilyzy.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "色猫资源",
-      "name": "色猫资源",
-      "type": 0,
-      "api": "https://caiji.semaozy.net/inc/apijson_vod.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+    }， 
     {
       "key": "KpgxdyE",
       "name": "黄AV资源",
@@ -476,24 +458,6 @@
       "api": "https://www.pgxdy.com/api/xml.php",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "ap4i156dlyE",
-      "name": "奶茶资源",
-      "type": 0,
-      "api": "https://caiji.semaozy.net/inc/apijson_vod.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "七天成人",
-      "name": "七天成人",
-      "type": 1,
-      "api": "https://8day.icu/api.php/provide/vod/at/json",
-      "quickSearch": 1,
-      "searchable": 1,
       "filterable": 1
     },
     {
