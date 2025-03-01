@@ -13,7 +13,7 @@
         }
       ]
     },
-     {
+    {
       "name": "LIVE",
       "type": 0,
       "url": "https://ghfast.top/https://raw.githubusercontent.com/wwb521/live/refs/heads/main/tv.m3u",
@@ -54,10 +54,10 @@
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     }
   ],
-"sites": [
+  "sites": [
     {
-      "key": "🌕┃大爷┃自用",
-      "name": "🌕┃大爷┃自用",
+      "key": "csp_douban",
+      "name": "🌕┃豆瓣┃推荐",
       "type": 3,
       "api": "csp_DouDou",
       "jar": "./lib/fty.jar",
@@ -357,10 +357,10 @@
       "quickSearch": 0
     },
     {
-      "key": "鸡坤资源",
-      "name": "鸡坤资源",
+      "key": "葡萄采集",
+      "name": "葡萄采集",
       "type": 0,
-      "api": "https://jkunzyapi.com/api.php/provide/vod/",
+      "api": "https://caiji.putaozyw.net/inc/apijson_vod.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -402,10 +402,10 @@
       "filterable": 1
     },
     {
-      "key": "妖舞资源",
-      "name": "🔞妖舞资源",
+      "key": "zp066",
+      "name": "🔞花椒资源",
       "type": 0,
-      "api": "https://155api.com/api.php/provide/vod/",
+      "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -429,10 +429,10 @@
       "filterable": 0
     },
     {
-      "key": "💞猫咪资源💞",
-      "name": "💞猫咪资源💞",
+      "key": "💞探探资源💞",
+      "name": "💞探探资源💞",
       "type": 1,
-      "api": "https://api.maozyapi.com/inc/apijson_vod.php",
+      "api": "https://apittzy.com/api.php/provide/vod/",
       "searchable": 0,
       "quickSearch": 0
     },
@@ -450,7 +450,25 @@
       "quickSearch": 1,
       "searchable": 1,
       "filterable": 1
-    }， 
+    },
+    {
+      "key": "老鸭资源",
+      "name": "老鸭资源",
+      "type": 0,
+      "api": "https://api.apilyzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "色猫资源",
+      "name": "色猫资源",
+      "type": 0,
+      "api": "https://caiji.semaozy.net/inc/apijson_vod.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
       "key": "KpgxdyE",
       "name": "黄AV资源",
@@ -458,6 +476,24 @@
       "api": "https://www.pgxdy.com/api/xml.php",
       "searchable": 1,
       "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "ap4i156dlyE",
+      "name": "奶茶资源",
+      "type": 0,
+      "api": "https://caiji.semaozy.net/inc/apijson_vod.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "七天成人",
+      "name": "七天成人",
+      "type": 1,
+      "api": "https://8day.icu/api.php/provide/vod/at/json",
+      "quickSearch": 1,
+      "searchable": 1,
       "filterable": 1
     },
     {
