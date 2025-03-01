@@ -309,7 +309,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./ext/feitucr.json"
+      "ext": "./ext/zijian.json"
     },
     {
       "key": "本地",
@@ -611,10 +611,10 @@
       "quickSearch": 0
     },
     {
-      "key": "*抖阴视频",
-      "name": "*抖阴视频",
+      "key": "*草榴资源",
+      "name": "*草榴资源",
       "type": 1,
-      "api": "https://www.888dav.com/api.php/provide/vod/",
+      "api": "https://www.caoliuzyw.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 0
     },
